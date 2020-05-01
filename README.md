@@ -5,9 +5,9 @@ Scaricare :
 
 https://mirror.openshift.com/pub/openshift-v4/clients/oc/latest/windows/oc.zip
 
-https://mirror.openshift.com/pub/openshift-v4/clients/crc/1.2.0/crc-windows-amd64.zip
+https://mirror.openshift.com/pub/openshift-v4/clients/crc/1.1.0/crc-windows-amd64.zip
 
-https://mirror.openshift.com/pub/openshift-v4/clients/crc/1.2.0/crc_virtualbox_4.2.8.crcbundle
+https://mirror.openshift.com/pub/openshift-v4/clients/crc/1.1.0/crc_virtualbox_4.2.2.crcbundle
 
 Il crcbundle scarica un file .man  che e' un file compresso che 7Zip puo' decomprimere
 
